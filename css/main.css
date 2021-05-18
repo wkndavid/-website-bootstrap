@@ -1,0 +1,18 @@
+@import url(./bootstrap.min.css);
+@import url(./config.css);
+@import url(./custom.css);
+@import url(./global.css);
+@import url(./responsive.css);
+
+.clear {
+    clear: both;
+}
+img {
+    width: 1150px;
+    height: 600px;
+}
+img.logo {
+    width: 80px;
+    height: 80px;
+}
+
